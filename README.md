@@ -1,3 +1,3 @@
 Tampilan Home
 =============
-![screencapture-localhost-samsung-index-html-2024-01-04-23_35_27](https://github.com/FikkoMuharavid/Samsung/assets/114418487/6d1fe0dd-d50a-4c3b-98a7-3fb04ca87927)
+![b0fc5006-f880-49b5-9bcf-96f16148071d](https://github.com/FikkoMuharavid/Samsung/assets/114418487/ab40100e-27d9-41ef-aad8-b5a62e1bf5c2)
